@@ -24,7 +24,7 @@ This is the result of what I learned about Data Analyst with R 2021 at DataCamp.
 - Introduction to Relational Databases in SQL
 - Joining Data in SQL
 
-======================================================================================================
+------------------------------------------------------------------------------------------------------
 Like it? Please click Star to support us.
 Useful? Please click Fork to save it.
 ------------------------------------------------------------------------------------------------------
