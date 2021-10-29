@@ -26,4 +26,6 @@ Datacamp Website : https://www.datacamp.com/
 - Introduction to Relational Databases in SQL
 - Joining Data in SQL
 
-(c) 2021 Bayu Alansyah. All right reserved
+<div class="footer">
+        &copy;  2021 Bayu Alansyah. All right reserved
+</div>
