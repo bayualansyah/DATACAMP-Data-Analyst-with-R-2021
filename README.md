@@ -25,9 +25,7 @@ This is the result of what I learned about Data Analyst with R 2021 at DataCamp.
 - Joining Data in SQL
 
 
-
-### Learning with Love <3
-### Growth with Data!
+### Learning with Love, Growth with Data!
 
 <div class="footer">
         &copy;  2021 Bayu Alansyah. All right reserved
