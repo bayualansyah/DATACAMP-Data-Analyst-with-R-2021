@@ -1,9 +1,7 @@
 # DATACAMP 
 ## DATA ANALYST WITH R 2021
 
-This is about learning Data Analyst with R 2021 courses in DataCamp. All the answers given written by myself Data Analyst with R Track
-
-Datacamp Website : https://www.datacamp.com/
+This is the result of what I learned about Data Analyst with R 2021 at DataCamp. All of these answers were written by myself as part of the career tracks programming language R from [Datacamp] (https://www.datacamp.com/).
 
 ## List of Courses
 - Introduction to R
@@ -25,6 +23,11 @@ Datacamp Website : https://www.datacamp.com/
 - Introduction to SQL
 - Introduction to Relational Databases in SQL
 - Joining Data in SQL
+
+
+
+## Learning with Love <3
+## Growth with Data!
 
 <div class="footer">
         &copy;  2021 Bayu Alansyah. All right reserved
