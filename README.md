@@ -1,7 +1,7 @@
 # DATACAMP 
 ## DATA ANALYST WITH R 2021
 
-This is the result of what I learned about Data Analyst with R 2021 at DataCamp. All of these answers were written by myself as part of the career tracks programming language R from <a href="http://www.datacamp.com/" title="Datacamp">.
+This is the result of what I learned about Data Analyst with R 2021 at DataCamp. All of these answers were written by myself as part of the career tracks programming language R from <a href="http://www.datacamp.com/">Datacamp</a>.
 
 ## List of Courses
 - Introduction to R
