@@ -26,8 +26,8 @@ This is the result of what I learned about Data Analyst with R 2021 at DataCamp.
 
 
 > Like it? Please click Star to support us.
-> Useful? Please click Fork to save it.
 
+> Useful? Please click Fork to save it.
 ------------------------------------------------------------------------------------------------------
 ### Learning with Love, Growth with Data!
 <div class="footer">
